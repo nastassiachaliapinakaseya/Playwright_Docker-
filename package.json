@@ -1,0 +1,16 @@
+{
+  "name": "playwright_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "playwright test --config=playwright.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.17.1",
+    "playwright": "^1.17.1",
+    "playwright-expect": "^0.1.2"
+  }
+}
