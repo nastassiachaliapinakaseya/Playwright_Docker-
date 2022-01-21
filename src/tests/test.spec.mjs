@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 
 
-test.describe.parallel('suite', () => {test('Navigate to BMS', async ({ page }) => {
+test.describe('suite', () => {test('Navigate to BMS', async ({ page }) => {
  
 
   await page.goto('https://bmsdev.dev.kaseya.net/Login.aspx');

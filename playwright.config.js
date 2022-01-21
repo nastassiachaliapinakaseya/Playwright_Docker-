@@ -8,7 +8,6 @@ const config = {
     
     use: {
       screenshot: 'on',
-      headless: false,
     },
 
   };
