@@ -1,7 +1,8 @@
 import { test, expect } from '@playwright/test';
 
 
-test('Navigate to BMS', async ({ page }) => {
+test.describe.parallel('suite', () => {test('Navigate to BMS', async ({ page }) => {
+ 
 
   await page.goto('https://bmsdev.dev.kaseya.net/Login.aspx');
 
@@ -69,9 +70,11 @@ test('Navigate to BMS', async ({ page }) => {
 
 
 
-
- await page.waitForSelector('#ctl00_MainHeaderNavigationBar_CurrentProfileBox1_iconProfileAnon')
-  await page.click('#ctl00_MainHeaderNavigationBar_CurrentProfileBox1_iconProfileAnon')
+  await page.waitForNavigation()
+await page.waitForSelector('#ctl00_MainHeaderNavigationBar_CurrentProfileBox1_lblUserFirstName',{timeout:10_000})
+ await page.evaluate(e=>{
+  document.querySelector('#ctl00_MainHeaderNavigationBar_CurrentProfileBox1_lblUserFirstName').click()
+})
   await page.click('#ctl00_MainHeaderNavigationBar_CurrentProfileBox1_btnEnableLoginWithITC')
 
 
@@ -102,7 +105,11 @@ test('Navigate to BMS', async ({ page }) => {
  })
 
 await page.click('#ctl00_MainHeaderNavigationBar_CurrentProfileBox1_iconProfileAnon')
-
+await page.screenshot({ path: `example-1.png` });
  await  page.click('text=Log out')
+
+})
+
+test('runs in parallel 2', async ({ page }) => { await page.goto('https://google.com'); });
 
 });

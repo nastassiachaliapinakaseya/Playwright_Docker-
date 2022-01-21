@@ -5,6 +5,15 @@
 /** @type {import('@playwright/test').PlaywrightTestConfig} */
 const config = {
     timeout: 5 * 60 * 1000,
+    
+    use: {
+      screenshot: 'on',
+      headless: false,
+    },
+
   };
   
   module.exports = config;
+
+  
+  

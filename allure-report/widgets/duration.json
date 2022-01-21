@@ -1,0 +1,41 @@
+[ {
+  "uid" : "b73b114f8172c14",
+  "name" : "Navigate to BMS",
+  "time" : {
+    "start" : 1642670607727,
+    "stop" : 1642670659379,
+    "duration" : 51652
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8042f37d88fd07e2",
+  "name" : "Navigate to BMS",
+  "time" : {
+    "start" : 1642672830057,
+    "stop" : 1642672969806,
+    "duration" : 139749
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "4ceced388f8cad46",
+  "name" : "runs in parallel 2",
+  "time" : {
+    "start" : 1642670607726,
+    "stop" : 1642670614830,
+    "duration" : 7104
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8456b7e0ca8d8d2f",
+  "name" : "runs in parallel 2",
+  "time" : {
+    "start" : 1642672830058,
+    "stop" : 1642672835347,
+    "duration" : 5289
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

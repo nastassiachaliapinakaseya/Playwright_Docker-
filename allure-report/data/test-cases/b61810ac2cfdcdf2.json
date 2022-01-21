@@ -1,0 +1,69 @@
+{
+  "uid" : "b61810ac2cfdcdf2",
+  "name" : "Navigate to BMS",
+  "fullName" : "Navigate to BMS",
+  "historyId" : "webkit src\\tests\\test.spec.mjs suite Navigate to BMS",
+  "time" : {
+    "start" : 1642672712691,
+    "stop" : 1642672823952,
+    "duration" : 111261
+  },
+  "status" : "skipped",
+  "statusMessage" : "page.waitForSelector: Target page, context or browser has been closed",
+  "statusTrace" : "page.waitForSelector: Target page, context or browser has been closed\n    at file:///C:/Users/user/Desktop/Project's%20data/automation/Playwright_1/src/tests/test.spec.mjs:36:14",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "skipped",
+    "statusMessage" : "page.waitForSelector: Target page, context or browser has been closed",
+    "statusTrace" : "page.waitForSelector: Target page, context or browser has been closed\n    at file:///C:/Users/user/Desktop/Project's%20data/automation/Playwright_1/src/tests/test.spec.mjs:36:14",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e5b149754f33825c",
+      "name" : "screenshot",
+      "source" : "e5b149754f33825c.png",
+      "type" : "image/png",
+      "size" : 87607
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "webkit"
+  }, {
+    "name" : "suite",
+    "value" : "src\\tests\\test.spec.mjs"
+  }, {
+    "name" : "subSuite",
+    "value" : "suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b61810ac2cfdcdf2.json",
+  "parameterValues" : [ ]
+}
