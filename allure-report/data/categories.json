@@ -1,5 +1,30 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "name" : "categories",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Pending operations:\n  - page.fill at ..\\..\\..\\..\\..\\..\\C:\\Users\\user\\Desktop\\Project's%20data\\automation\\Playwright_1\\src\\tests\\test.spec.mjs:13:14\n\npage.fill: Target closed\n=========================== logs ===========================\nwaiting for selector \"input[name=\"ctl00$MainContent$txtCompany4444\"]\"\n============================================================",
+      "children" : [ {
+        "name" : "Navigate to BMS",
+        "uid" : "a7841457b33f0ae9",
+        "parentUid" : "32ba184600593d00e6a62c689b00fc68",
+        "status" : "broken",
+        "time" : {
+          "start" : 1643010921369,
+          "stop" : 1643010981515,
+          "duration" : 60146
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 31,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "32ba184600593d00e6a62c689b00fc68"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
 }

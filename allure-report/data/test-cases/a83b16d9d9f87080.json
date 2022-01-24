@@ -1,0 +1,46 @@
+{
+  "uid" : "a83b16d9d9f87080",
+  "name" : "runs in parallel 2",
+  "fullName" : "runs in parallel 2",
+  "historyId" : " src\\tests\\test.spec.mjs suite runs in parallel 2",
+  "time" : {
+    "start" : 1642670607726,
+    "stop" : 1642670614830,
+    "duration" : 7104
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "src\\tests\\test.spec.mjs"
+  }, {
+    "name" : "subSuite",
+    "value" : "suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a83b16d9d9f87080.json",
+  "parameterValues" : [ ]
+}

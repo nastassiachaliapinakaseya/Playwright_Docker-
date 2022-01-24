@@ -1,0 +1,63 @@
+{
+  "uid" : "d23bc68977611cd8",
+  "name" : "runs in parallel 2",
+  "fullName" : "runs in parallel 2",
+  "historyId" : "webkit src\\tests\\test.spec.mjs suite runs in parallel 2",
+  "time" : {
+    "start" : 1642946499696,
+    "stop" : 1642946505048,
+    "duration" : 5352
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "name" : "screenshot",
+      "type" : "image/png",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "webkit"
+  }, {
+    "name" : "suite",
+    "value" : "src\\tests\\test.spec.mjs"
+  }, {
+    "name" : "subSuite",
+    "value" : "suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d23bc68977611cd8.json",
+  "parameterValues" : [ ]
+}

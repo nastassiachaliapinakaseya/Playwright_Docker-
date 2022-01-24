@@ -4,10 +4,11 @@
 
 /** @type {import('@playwright/test').PlaywrightTestConfig} */
 const config = {
-    timeout: 5 * 60 * 1000,
+    timeout: 5 * 60 * 200,
     
     use: {
-      screenshot: 'on',
+      screenshot: "only-on-failure",
+      headless: false,
     },
 
   };

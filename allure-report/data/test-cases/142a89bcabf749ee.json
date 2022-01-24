@@ -1,0 +1,48 @@
+{
+  "uid" : "142a89bcabf749ee",
+  "name" : "Navigate to BMS",
+  "fullName" : "Navigate to BMS",
+  "historyId" : " src\\tests\\test.spec.mjs suite Navigate to BMS",
+  "time" : {
+    "start" : 1642670230753,
+    "stop" : 1642670253257,
+    "duration" : 22504
+  },
+  "status" : "failed",
+  "statusMessage" : "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://bmsdev.dev.kaseya.net/Login.aspx\n=========================== logs ===========================\nnavigating to \"https://bmsdev.dev.kaseya.net/Login.aspx\", waiting until \"load\"\n============================================================",
+  "statusTrace" : "page.goto: net::ERR_TUNNEL_CONNECTION_FAILED at https://bmsdev.dev.kaseya.net/Login.aspx\n=========================== logs ===========================\nnavigating to \"https://bmsdev.dev.kaseya.net/Login.aspx\", waiting until \"load\"\n============================================================\n    at file:///C:/Users/user/Desktop/Project's%20data/automation/Playwright_1/src/tests/test.spec.mjs:7:14",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "suite",
+    "value" : "src\\tests\\test.spec.mjs"
+  }, {
+    "name" : "subSuite",
+    "value" : "suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "142a89bcabf749ee.json",
+  "parameterValues" : [ ]
+}

@@ -1,6 +1,17 @@
 {
   "total" : 2,
   "items" : [ {
+    "uid" : "44063b3706d66b0d346705a4a77c6704",
+    "name" : "webkit",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
     "uid" : "01df2e63855c21341c02adada3e24111",
     "name" : "src\\tests\\test.spec.mjs",
     "statistic" : {
@@ -8,17 +19,6 @@
       "broken" : 0,
       "skipped" : 0,
       "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
-    }
-  }, {
-    "uid" : "44063b3706d66b0d346705a4a77c6704",
-    "name" : "webkit",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 1,
-      "passed" : 1,
       "unknown" : 0,
       "total" : 2
     }
