@@ -9,8 +9,8 @@ test.describe.parallel('suite', () => {
 
     await page.fill('input[name="ctl00$MainContent$txtUserID"]', 'gadmin');
     await page.fill('input[name="ctl00$MainContent$txtPassword"]', 'admin123');
-  //  await page.fill('input[name="ctl00$MainContent$txtCompany"]', 'K1Demo');
-  await page.fill('input[name="ctl00$MainContent$txtCompany4444"]', 'K1Demo');
+ //  await page.fill('input[name="ctl00$MainContent$txtCompany"]', 'K1Demo');
+ await page.fill('input[name="ctl00$MainContent$txtCompany4444"]', 'K1Demo');
     await page.click('text=Log In');
 
     await page.click('text=Admin');
@@ -61,6 +61,11 @@ test.describe.parallel('suite', () => {
   })
 
 
-  test('runs in parallel 2', async ({ page }) => { await page.goto('https://google.com'); });
+  test('runs in parallel 2', async ({ page }) => { await page.goto('https://k1storageaccountcsiqa.z6.web.core.windows.net/');
+  await page.fill('input[type="text"]', 'alexqa');
+    await page.fill('input[type="password"]', 'Qwerty&77');
+    await page.fill('#organizationName', 'alexqac');
+    await page.click('text=Log In'); 
+});
 
 });

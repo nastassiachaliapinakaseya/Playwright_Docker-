@@ -1,0 +1,123 @@
+{
+  "uid" : "7692f33482f7f5af",
+  "name" : "runs in parallel 2",
+  "fullName" : "runs in parallel 2",
+  "historyId" : "webkit src\\tests\\test.spec.mjs suite runs in parallel 2",
+  "time" : {
+    "start" : 1643107464989,
+    "stop" : 1643107472066,
+    "duration" : 7077
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 9,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "webkit"
+  }, {
+    "name" : "suite",
+    "value" : "src\\tests\\test.spec.mjs"
+  }, {
+    "name" : "subSuite",
+    "value" : "suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5d96158c39e99ba8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107320856,
+        "stop" : 1643107333275,
+        "duration" : 12419
+      }
+    }, {
+      "uid" : "163f3c858519f839",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107159515,
+        "stop" : 1643107166860,
+        "duration" : 7345
+      }
+    }, {
+      "uid" : "77351beca23c202f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107110514,
+        "stop" : 1643107118060,
+        "duration" : 7546
+      }
+    }, {
+      "uid" : "4a4c2435db4ab9cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643084425863,
+        "stop" : 1643084431378,
+        "duration" : 5515
+      }
+    }, {
+      "uid" : "b9209a5c552460e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643084352411,
+        "stop" : 1643084362381,
+        "duration" : 9970
+      }
+    }, {
+      "uid" : "94299a6ecdcbe725",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643084277821,
+        "stop" : 1643084282598,
+        "duration" : 4777
+      }
+    }, {
+      "uid" : "64e791b241de2343",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643084185496,
+        "stop" : 1643084191552,
+        "duration" : 6056
+      }
+    }, {
+      "uid" : "94cbebc70b639b6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643020452508,
+        "stop" : 1643020456714,
+        "duration" : 4206
+      }
+    }, {
+      "uid" : "e6053bddec785bc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643013428491,
+        "stop" : 1643013435125,
+        "duration" : 6634
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7692f33482f7f5af.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,69 @@
+{
+  "uid" : "39d26438bdf06f24",
+  "name" : "Navigate to BMS",
+  "fullName" : "Navigate to BMS",
+  "historyId" : "webkit src\\tests\\test.spec.mjs suite Navigate to BMS",
+  "time" : {
+    "start" : 1643020452496,
+    "stop" : 1643020474533,
+    "duration" : 22037
+  },
+  "status" : "failed",
+  "statusMessage" : "page.goto: Timeout was reached\n=========================== logs ===========================\nnavigating to \"https://bmsdev.dev.kaseya.net/Login.aspx\", waiting until \"load\"\n============================================================",
+  "statusTrace" : "page.goto: Timeout was reached\n=========================== logs ===========================\nnavigating to \"https://bmsdev.dev.kaseya.net/Login.aspx\", waiting until \"load\"\n============================================================\n    at file:///C:/Users/user/Desktop/Project's%20data/automation/Playwright_1/src/tests/test.spec.mjs:8:16",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "page.goto: Timeout was reached\n=========================== logs ===========================\nnavigating to \"https://bmsdev.dev.kaseya.net/Login.aspx\", waiting until \"load\"\n============================================================",
+    "statusTrace" : "page.goto: Timeout was reached\n=========================== logs ===========================\nnavigating to \"https://bmsdev.dev.kaseya.net/Login.aspx\", waiting until \"load\"\n============================================================\n    at file:///C:/Users/user/Desktop/Project's%20data/automation/Playwright_1/src/tests/test.spec.mjs:8:16",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "2ad519adb9e52270",
+      "name" : "screenshot",
+      "source" : "2ad519adb9e52270.png",
+      "type" : "image/png",
+      "size" : 189255
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "webkit"
+  }, {
+    "name" : "suite",
+    "value" : "src\\tests\\test.spec.mjs"
+  }, {
+    "name" : "subSuite",
+    "value" : "suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "39d26438bdf06f24.json",
+  "parameterValues" : [ ]
+}

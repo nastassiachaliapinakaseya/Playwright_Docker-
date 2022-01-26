@@ -1,5 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Jan 21 13:11:25 MSK 2022","Fri Jan 21 13:12:21 MSK 2022","56948","","src\tests\test.spec.mjs","suite","","","Navigate to BMS",""
-"passed","Mon Jan 24 10:55:21 MSK 2022","Mon Jan 24 10:55:28 MSK 2022","6738","webkit","src\tests\test.spec.mjs","suite","","","runs in parallel 2",""
-"passed","Fri Jan 21 13:11:25 MSK 2022","Fri Jan 21 13:11:31 MSK 2022","6336","","src\tests\test.spec.mjs","suite","","","runs in parallel 2",""
-"broken","Mon Jan 24 10:55:21 MSK 2022","Mon Jan 24 10:56:21 MSK 2022","60146","webkit","src\tests\test.spec.mjs","suite","","","Navigate to BMS",""
+"passed","Tue Jan 25 13:44:24 MSK 2022","Tue Jan 25 13:44:32 MSK 2022","7077","webkit","src\tests\test.spec.mjs","suite","","","runs in parallel 2",""
+"broken","Tue Jan 25 13:44:24 MSK 2022","Tue Jan 25 13:45:25 MSK 2022","60107","webkit","src\tests\test.spec.mjs","suite","","","Navigate to BMS",""

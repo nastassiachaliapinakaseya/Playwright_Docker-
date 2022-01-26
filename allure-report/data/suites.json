@@ -2,48 +2,6 @@
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
   "name" : "suites",
   "children" : [ {
-    "name" : "src\\tests\\test.spec.mjs",
-    "children" : [ {
-      "name" : "suite",
-      "children" : [ {
-        "name" : "Navigate to BMS",
-        "uid" : "34f186ab943a183b",
-        "parentUid" : "b5e18245dd87e554332c156d926e7a75",
-        "status" : "passed",
-        "time" : {
-          "start" : 1642759885018,
-          "stop" : 1642759941966,
-          "duration" : 56948
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 5,
-        "retriesStatusChange" : true,
-        "parameters" : [ ]
-      }, {
-        "name" : "runs in parallel 2",
-        "uid" : "a5ce525d7ddf11ab",
-        "parentUid" : "b5e18245dd87e554332c156d926e7a75",
-        "status" : "passed",
-        "time" : {
-          "start" : 1642759885018,
-          "stop" : 1642759891354,
-          "duration" : 6336
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 5,
-        "retriesStatusChange" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "b5e18245dd87e554332c156d926e7a75"
-    } ],
-    "uid" : "01df2e63855c21341c02adada3e24111"
-  }, {
     "name" : "webkit",
     "children" : [ {
       "name" : "src\\tests\\test.spec.mjs",
@@ -51,37 +9,37 @@
         "name" : "suite",
         "children" : [ {
           "name" : "Navigate to BMS",
-          "uid" : "a7841457b33f0ae9",
+          "uid" : "2bf87b183f430343",
           "parentUid" : "b0c222436ebf16181272d3973c683d51",
           "status" : "broken",
           "time" : {
-            "start" : 1643010921369,
-            "stop" : 1643010981515,
-            "duration" : 60146
+            "start" : 1643107464988,
+            "stop" : 1643107525095,
+            "duration" : 60107
           },
           "flaky" : false,
           "newFailed" : false,
           "newPassed" : false,
           "newBroken" : false,
-          "retriesCount" : 31,
+          "retriesCount" : 9,
           "retriesStatusChange" : true,
           "parameters" : [ ]
         }, {
           "name" : "runs in parallel 2",
-          "uid" : "eb7c401a3c4ea128",
+          "uid" : "7692f33482f7f5af",
           "parentUid" : "b0c222436ebf16181272d3973c683d51",
           "status" : "passed",
           "time" : {
-            "start" : 1643010921373,
-            "stop" : 1643010928111,
-            "duration" : 6738
+            "start" : 1643107464989,
+            "stop" : 1643107472066,
+            "duration" : 7077
           },
           "flaky" : false,
           "newFailed" : false,
           "newPassed" : false,
           "newBroken" : false,
-          "retriesCount" : 31,
-          "retriesStatusChange" : true,
+          "retriesCount" : 9,
+          "retriesStatusChange" : false,
           "parameters" : [ ]
         } ],
         "uid" : "b0c222436ebf16181272d3973c683d51"

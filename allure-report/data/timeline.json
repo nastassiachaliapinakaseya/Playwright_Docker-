@@ -3,13 +3,13 @@
   "name" : "timeline",
   "children" : [ {
     "name" : "Navigate to BMS",
-    "uid" : "5deee2601b00176c",
+    "uid" : "39d26438bdf06f24",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "failed",
     "time" : {
-      "start" : 1643009909402,
-      "stop" : 1643010073550,
-      "duration" : 164148
+      "start" : 1643020452496,
+      "stop" : 1643020474533,
+      "duration" : 22037
     },
     "flaky" : false,
     "newFailed" : false,
@@ -20,13 +20,13 @@
     "parameters" : [ ]
   }, {
     "name" : "runs in parallel 2",
-    "uid" : "d5f66c2f51e568dd",
+    "uid" : "77351beca23c202f",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1642667877887,
-      "stop" : 1642667886117,
-      "duration" : 8230
+      "start" : 1643107110514,
+      "stop" : 1643107118060,
+      "duration" : 7546
     },
     "flaky" : false,
     "newFailed" : false,
@@ -37,30 +37,30 @@
     "parameters" : [ ]
   }, {
     "name" : "runs in parallel 2",
-    "uid" : "e4e16128548f6e08",
+    "uid" : "7692f33482f7f5af",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
+    "status" : "passed",
     "time" : {
-      "start" : 1642769861888,
-      "stop" : 1642769861896,
-      "duration" : 8
+      "start" : 1643107464989,
+      "stop" : 1643107472066,
+      "duration" : 7077
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 0,
+    "retriesCount" : 9,
     "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "runs in parallel 2",
-    "uid" : "51d00d319821dcef",
+    "uid" : "4a4c2435db4ab9cb",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1642671661558,
-      "stop" : 1642671667140,
-      "duration" : 5582
+      "start" : 1643084425863,
+      "stop" : 1643084431378,
+      "duration" : 5515
     },
     "flaky" : false,
     "newFailed" : false,
@@ -71,115 +71,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Navigate to BMS",
-    "uid" : "14461c76f2a64610",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643008793298,
-      "stop" : 1643008925439,
-      "duration" : 132141
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "20082fa784215e2e",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642670089235,
-      "stop" : 1642670110915,
-      "duration" : 21680
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "fb31ead24b2b66d1",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642946835338,
-      "stop" : 1642946904987,
-      "duration" : 69649
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "74700576b7123f48",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1643010225433,
-      "stop" : 1643010244997,
-      "duration" : 19564
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "e4b7b4c83de22f84",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642667282258,
-      "stop" : 1642667329793,
-      "duration" : 47535
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "a0f41314ad0fe6b8",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642946568922,
-      "stop" : 1642946574791,
-      "duration" : 5869
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "58ad09b26e28106b",
+    "uid" : "3fa81604cd8b8a49",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "skipped",
     "time" : {
-      "start" : 1642672712691,
-      "stop" : 1642672823952,
-      "duration" : 111261
+      "start" : 1643107110514,
+      "stop" : 1643107154123,
+      "duration" : 43609
     },
     "flaky" : false,
     "newFailed" : false,
@@ -190,13 +88,30 @@
     "parameters" : [ ]
   }, {
     "name" : "runs in parallel 2",
-    "uid" : "435bbb7320fd7201",
+    "uid" : "e6053bddec785bc4",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1643010225440,
-      "stop" : 1643010232373,
-      "duration" : 6933
+      "start" : 1643013428491,
+      "stop" : 1643013435125,
+      "duration" : 6634
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "runs in parallel 2",
+    "uid" : "b9209a5c552460e7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643084352411,
+      "stop" : 1643084362381,
+      "duration" : 9970
     },
     "flaky" : false,
     "newFailed" : false,
@@ -207,47 +122,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Navigate to BMS",
-    "uid" : "5d0fc9eb9e96fe29",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642946568918,
-      "stop" : 1642946670552,
-      "duration" : 101634
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "cebe76089c9b5bf7",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643010248709,
-      "stop" : 1643010302642,
-      "duration" : 53933
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "81e844984cb347c5",
+    "uid" : "3ec9c643e547a842",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "broken",
     "time" : {
-      "start" : 1642670694271,
-      "stop" : 1642670994282,
-      "duration" : 300011
+      "start" : 1643013428483,
+      "stop" : 1643013488593,
+      "duration" : 60110
     },
     "flaky" : false,
     "newFailed" : false,
@@ -258,47 +139,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Navigate to BMS",
-    "uid" : "fc631ff674adfab6",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642945923920,
-      "stop" : 1642945952309,
-      "duration" : 28389
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "7524bc6f02a3c0e4",
+    "uid" : "2e43933179f3f39d",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1642670694277,
-      "stop" : 1642670699328,
-      "duration" : 5051
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "577ee28ab2b3f7b1",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642946364391,
-      "stop" : 1642946370563,
-      "duration" : 6172
+      "start" : 1643107159516,
+      "stop" : 1643107211571,
+      "duration" : 52055
     },
     "flaky" : false,
     "newFailed" : false,
@@ -309,115 +156,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Navigate to BMS",
-    "uid" : "c2380bc0f4a8606f",
+    "uid" : "1935a2528b826e65",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1642670607727,
-      "stop" : 1642670659379,
-      "duration" : 51652
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "2ef862da430e0b86",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642947310112,
-      "stop" : 1642947315671,
-      "duration" : 5559
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "f9f1be3daa6a5da2",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642869957956,
-      "stop" : 1642869963640,
-      "duration" : 5684
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "5440f6251aa2babc",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642945964872,
-      "stop" : 1642945970568,
-      "duration" : 5696
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "bd98be332e9dca68",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642946004263,
-      "stop" : 1642946009576,
-      "duration" : 5313
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "8b0f18d2f78396ee",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "skipped",
-    "time" : {
-      "start" : 1642769957680,
-      "stop" : 1642769959964,
-      "duration" : 2284
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "afb0d832d6b5240a",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642946835337,
-      "stop" : 1642946840989,
-      "duration" : 5652
+      "start" : 1643084425864,
+      "stop" : 1643084484222,
+      "duration" : 58358
     },
     "flaky" : false,
     "newFailed" : false,
@@ -428,64 +173,30 @@
     "parameters" : [ ]
   }, {
     "name" : "Navigate to BMS",
-    "uid" : "dfea0117609a6081",
+    "uid" : "2bf87b183f430343",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
+    "status" : "broken",
     "time" : {
-      "start" : 1642870130554,
-      "stop" : 1642870194061,
-      "duration" : 63507
+      "start" : 1643107464988,
+      "stop" : 1643107525095,
+      "duration" : 60107
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "8ae125b33d4bf13f",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642870130538,
-      "stop" : 1642870135736,
-      "duration" : 5198
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "34f186ab943a183b",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642759885018,
-      "stop" : 1642759941966,
-      "duration" : 56948
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 5,
+    "retriesCount" : 9,
     "retriesStatusChange" : true,
     "parameters" : [ ]
   }, {
     "name" : "Navigate to BMS",
-    "uid" : "6d32f71edcae786d",
+    "uid" : "e19a39cf906fb7f",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "broken",
     "time" : {
-      "start" : 1642686962738,
-      "stop" : 1642687262958,
-      "duration" : 300220
+      "start" : 1643084277822,
+      "stop" : 1643084337939,
+      "duration" : 60117
     },
     "flaky" : false,
     "newFailed" : false,
@@ -496,30 +207,30 @@
     "parameters" : [ ]
   }, {
     "name" : "Navigate to BMS",
-    "uid" : "a7841457b33f0ae9",
+    "uid" : "d200de3cbdfba960",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "broken",
     "time" : {
-      "start" : 1643010921369,
-      "stop" : 1643010981515,
-      "duration" : 60146
+      "start" : 1643084185499,
+      "stop" : 1643084245599,
+      "duration" : 60100
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 31,
-    "retriesStatusChange" : true,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
     "parameters" : [ ]
   }, {
     "name" : "Navigate to BMS",
-    "uid" : "f6da7c80f8eb7025",
+    "uid" : "5fe45ea671322bb1",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "skipped",
+    "status" : "passed",
     "time" : {
-      "start" : 1643010695626,
-      "stop" : 1643010896774,
-      "duration" : 201148
+      "start" : 1643107320855,
+      "stop" : 1643107387755,
+      "duration" : 66900
     },
     "flaky" : false,
     "newFailed" : false,
@@ -530,13 +241,64 @@
     "parameters" : [ ]
   }, {
     "name" : "runs in parallel 2",
-    "uid" : "23618be95396402a",
+    "uid" : "5d96158c39e99ba8",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1642672830058,
-      "stop" : 1642672835347,
-      "duration" : 5289
+      "start" : 1643107320856,
+      "stop" : 1643107333275,
+      "duration" : 12419
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "runs in parallel 2",
+    "uid" : "94299a6ecdcbe725",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643084277821,
+      "stop" : 1643084282598,
+      "duration" : 4777
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "runs in parallel 2",
+    "uid" : "94cbebc70b639b6a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643020452508,
+      "stop" : 1643020456714,
+      "duration" : 4206
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "runs in parallel 2",
+    "uid" : "64e791b241de2343",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1643084185496,
+      "stop" : 1643084191552,
+      "duration" : 6056
     },
     "flaky" : false,
     "newFailed" : false,
@@ -547,13 +309,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Navigate to BMS",
-    "uid" : "3c73a548a73a8f2d",
+    "uid" : "ef18de153ef9e80b",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "failed",
     "time" : {
-      "start" : 1643008693884,
-      "stop" : 1643008789668,
-      "duration" : 95784
+      "start" : 1643084352417,
+      "stop" : 1643084405820,
+      "duration" : 53403
     },
     "flaky" : false,
     "newFailed" : false,
@@ -564,727 +326,13 @@
     "parameters" : [ ]
   }, {
     "name" : "runs in parallel 2",
-    "uid" : "2163ac9d0031e41b",
+    "uid" : "163f3c858519f839",
     "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
     "status" : "passed",
     "time" : {
-      "start" : 1642670089234,
-      "stop" : 1642670091026,
-      "duration" : 1792
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "eb7c401a3c4ea128",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643010921373,
-      "stop" : 1643010928111,
-      "duration" : 6738
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 31,
-    "retriesStatusChange" : true,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "c95db11e8fa8c4cf",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642870203152,
-      "stop" : 1642870254371,
-      "duration" : 51219
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "ca7d518cd7bc3cff",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643009909402,
-      "stop" : 1643009916344,
-      "duration" : 6942
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "4d14570cf0dabcae",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642869957921,
-      "stop" : 1642870094988,
-      "duration" : 137067
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "7d175d6dfb399a7b",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "skipped",
-    "time" : {
-      "start" : 1642945964872,
-      "stop" : 1642945998799,
-      "duration" : 33927
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "90848c43b4f81ffd",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "broken",
-    "time" : {
-      "start" : 1642667877888,
-      "stop" : 1642668177921,
-      "duration" : 300033
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "1a5199fbe4d5d6b0",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642870203151,
-      "stop" : 1642870208231,
-      "duration" : 5080
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "1067181d88100cbd",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642945923924,
-      "stop" : 1642945930984,
-      "duration" : 7060
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "4e5f3994db306c98",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642672712694,
-      "stop" : 1642672719144,
-      "duration" : 6450
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "a5ce525d7ddf11ab",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642759885018,
-      "stop" : 1642759891354,
-      "duration" : 6336
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 5,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "deed0ddb5cf8a0d7",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643008982343,
-      "stop" : 1643009045700,
-      "duration" : 63357
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "b8b4b7388391fc7f",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642870099911,
-      "stop" : 1642870105265,
-      "duration" : 5354
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "ac27e6600408a329",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642870099909,
-      "stop" : 1642870126829,
-      "duration" : 26920
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "b4be1450238ebd9a",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1643009161670,
-      "stop" : 1643009225273,
-      "duration" : 63603
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "b7df4676f34e4020",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642946447150,
-      "stop" : 1642946474978,
-      "duration" : 27828
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "4166087701df1878",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642947310106,
-      "stop" : 1642947371496,
-      "duration" : 61390
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "d23bc68977611cd8",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642946499696,
-      "stop" : 1642946505048,
-      "duration" : 5352
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "14f0b8fda348de5",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642946499699,
-      "stop" : 1642946534638,
-      "duration" : 34939
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "b3c4ce57a663e309",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642667282263,
-      "stop" : 1642667289646,
-      "duration" : 7383
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "42435188da82faa3",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643008982348,
-      "stop" : 1643008989323,
-      "duration" : 6975
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "3e32367b76e19cc3",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642670230750,
-      "stop" : 1642670233360,
-      "duration" : 2610
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "965a493ccb36cc1b",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643009161677,
-      "stop" : 1643009168699,
-      "duration" : 7022
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "250d66ba24ef68d4",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643010248713,
-      "stop" : 1643010255784,
-      "duration" : 7071
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "bff2029c35a738a5",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642665830450,
-      "stop" : 1642665879037,
-      "duration" : 48587
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "cc850b29e900e528",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642769898260,
-      "stop" : 1642769957041,
-      "duration" : 58781
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "3564c327a7fad887",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643010695627,
-      "stop" : 1643010702497,
-      "duration" : 6870
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "522b021ebf5679f7",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "broken",
-    "time" : {
-      "start" : 1642769561187,
-      "stop" : 1642769861297,
-      "duration" : 300110
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "275a163d79bd7e51",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642665830450,
-      "stop" : 1642665838260,
-      "duration" : 7810
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "7d0577e2c2f10479",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642686962740,
-      "stop" : 1642686969744,
-      "duration" : 7004
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "42ec76dfebe64977",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642946364388,
-      "stop" : 1642946401587,
-      "duration" : 37199
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "6617160fcb69c2b8",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643008793298,
-      "stop" : 1643008799937,
-      "duration" : 6639
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "3e50454dd98aad9d",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642946447151,
-      "stop" : 1642946452693,
-      "duration" : 5542
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "634728112091e5a8",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642760527268,
-      "stop" : 1642760532448,
-      "duration" : 5180
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "a83b16d9d9f87080",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642670607726,
-      "stop" : 1642670614830,
-      "duration" : 7104
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "383658f0c3e112d6",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642947060489,
-      "stop" : 1642947120870,
-      "duration" : 60381
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "3a497d6c48fd90a7",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642946004257,
-      "stop" : 1642946072500,
-      "duration" : 68243
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "90fd65567dfdc065",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642760527270,
-      "stop" : 1642760615371,
-      "duration" : 88101
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "83e58ca86813e8b8",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "broken",
-    "time" : {
-      "start" : 1642671661561,
-      "stop" : 1642671961578,
-      "duration" : 300017
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "a617ea880da98cc3",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "skipped",
-    "time" : {
-      "start" : 1642672830057,
-      "stop" : 1642672969806,
-      "duration" : 139749
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "e2e075a90cf6f2b5",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1643008693881,
-      "stop" : 1643008701166,
-      "duration" : 7285
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "runs in parallel 2",
-    "uid" : "aba2f85a459143fe",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "passed",
-    "time" : {
-      "start" : 1642947060488,
-      "stop" : 1642947067508,
-      "duration" : 7020
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 0,
-    "retriesStatusChange" : false,
-    "parameters" : [ ]
-  }, {
-    "name" : "Navigate to BMS",
-    "uid" : "142a89bcabf749ee",
-    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-    "status" : "failed",
-    "time" : {
-      "start" : 1642670230753,
-      "stop" : 1642670253257,
-      "duration" : 22504
+      "start" : 1643107159515,
+      "stop" : 1643107166860,
+      "duration" : 7345
     },
     "flaky" : false,
     "newFailed" : false,

@@ -1,40 +1,20 @@
 [ {
-  "uid" : "34f186ab943a183b",
-  "name" : "Navigate to BMS",
-  "time" : {
-    "start" : 1642759885018,
-    "stop" : 1642759941966,
-    "duration" : 56948
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "eb7c401a3c4ea128",
+  "uid" : "7692f33482f7f5af",
   "name" : "runs in parallel 2",
   "time" : {
-    "start" : 1643010921373,
-    "stop" : 1643010928111,
-    "duration" : 6738
+    "start" : 1643107464989,
+    "stop" : 1643107472066,
+    "duration" : 7077
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a5ce525d7ddf11ab",
-  "name" : "runs in parallel 2",
-  "time" : {
-    "start" : 1642759885018,
-    "stop" : 1642759891354,
-    "duration" : 6336
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a7841457b33f0ae9",
+  "uid" : "2bf87b183f430343",
   "name" : "Navigate to BMS",
   "time" : {
-    "start" : 1643010921369,
-    "stop" : 1643010981515,
-    "duration" : 60146
+    "start" : 1643107464988,
+    "stop" : 1643107525095,
+    "duration" : 60107
   },
   "status" : "broken",
   "severity" : "normal"

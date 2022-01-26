@@ -1,42 +1,4 @@
 {
-  " src\\tests\\test.spec.mjs suite Navigate to BMS" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "34f186ab943a183b",
-      "status" : "passed",
-      "time" : {
-        "start" : 1642759885018,
-        "stop" : 1642759941966,
-        "duration" : 56948
-      }
-    } ]
-  },
-  " src\\tests\\test.spec.mjs suite runs in parallel 2" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "a5ce525d7ddf11ab",
-      "status" : "passed",
-      "time" : {
-        "start" : 1642759885018,
-        "stop" : 1642759891354,
-        "duration" : 6336
-      }
-    } ]
-  },
   "webkit src\\tests\\test.spec.mjs suite Navigate to BMS" : {
     "statistic" : {
       "failed" : 0,
@@ -47,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a7841457b33f0ae9",
+      "uid" : "2bf87b183f430343",
       "status" : "broken",
-      "statusDetails" : "Pending operations:\n  - page.fill at ..\\..\\..\\..\\..\\..\\C:\\Users\\user\\Desktop\\Project's%20data\\automation\\Playwright_1\\src\\tests\\test.spec.mjs:13:14\n\npage.fill: Target closed\n=========================== logs ===========================\nwaiting for selector \"input[name=\"ctl00$MainContent$txtCompany4444\"]\"\n============================================================",
+      "statusDetails" : "Pending operations:\n  - page.fill at ..\\..\\..\\..\\..\\..\\C:\\Users\\user\\Desktop\\Project's%20data\\automation\\Playwright_1\\src\\tests\\test.spec.mjs:13:13\n\npage.fill: Target closed\n=========================== logs ===========================\nwaiting for selector \"input[name=\"ctl00$MainContent$txtCompany4444\"]\"\n============================================================",
       "time" : {
-        "start" : 1643010921369,
-        "stop" : 1643010981515,
-        "duration" : 60146
+        "start" : 1643107464988,
+        "stop" : 1643107525095,
+        "duration" : 60107
       }
     } ]
   },
@@ -67,12 +29,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "eb7c401a3c4ea128",
+      "uid" : "7692f33482f7f5af",
       "status" : "passed",
       "time" : {
-        "start" : 1643010921373,
-        "stop" : 1643010928111,
-        "duration" : 6738
+        "start" : 1643107464989,
+        "stop" : 1643107472066,
+        "duration" : 7077
       }
     } ]
   }
